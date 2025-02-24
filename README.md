@@ -96,6 +96,10 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
   <a href="https://kestra.io/docs/brand-assets" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/kestra.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
   </a>
+    </a> 
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
+  </a>
 </p>
 
 
