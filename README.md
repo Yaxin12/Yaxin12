@@ -94,7 +94,7 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://kestra.io/docs/brand-assets" target="_blank" rel="noreferrer"> 
-  <img src="https://kestra.io/docs/brand-assets" alt="kestra" width="40" height="40" style="margin-right: 15px"/> 
+  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/kestra.svg" alt="kestra" width="40" height="40" style="margin-right: 15px"/> 
   </a>
 </p>
 
