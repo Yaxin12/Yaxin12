@@ -61,11 +61,7 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
 
 </details>
 
-<details>
-  <summary><strong>📫 Let's Connect!</strong></summary>
+## 📫 Let's Connect!  
+📍 [LinkedIn](https://www.linkedin.com/in/yaxinzhaouncc/) 
 
-📍 [LinkedIn](https://www.linkedin.com/in/yaxinzhaouncc/)
-
-🚀 **Always open to data-driven collaborations! Feel free to explore my work.**
-
-</details>
+🚀 **Always open to data-driven collaborations! Feel free to explore my work.** 
