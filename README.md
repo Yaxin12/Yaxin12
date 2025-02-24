@@ -87,6 +87,8 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70" style="margin-right: 30px"/> 
   </a> 
+</p>
+<p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="70" height="70" style="margin-right: 30px"/> 
   </a> 
@@ -102,6 +104,10 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
   </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/detain/svg-logos/blob/master/svg/t/tableau-software.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
+  </a>
+    </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
   </a>
 </p>
 
