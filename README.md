@@ -100,6 +100,9 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
   </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/t/tableau-software.svg" alt="kestra" width="70" height="70" style="margin-right: 30px"/> 
+  </a>
 </p>
 
 
