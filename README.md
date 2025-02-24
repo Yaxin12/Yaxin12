@@ -77,9 +77,9 @@ Hi there! 👋 I'm **Yaxin Zhao**, a **data scientist** with a strong foundation
   </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" style="margin-right: 15px"/> 
-  </a>
-  <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original-wordmark.svg" alt="sas" width="40" height="40" style="margin-right: 15px"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 15px"/> 
